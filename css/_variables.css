@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #fc036b;
+    --secondary-color: #484872;
+    --text-light: whitesmoke;
+    --text-gray: #7c7c7c;
+    --text-dark: #484872;
+    --bg-light: whitesmoke;
+    --bg-dark: #484872;
+    --font-main: "Poppins", "sans-serif";
+}
